@@ -13,7 +13,7 @@ The audio is available from a single channel. There is one static camera capturi
 The field-of-the-view of the camera while the panelists are shown with the assigned identification numbers are as follow.
 
 ![Alt text](img.jpg)
-<sub> Image taken from video: Privacy camp 2018: Round-table, government hacking in different national contexts and strategies.
+<sub> Image was adapted from Privacy camp 2018: Round-table, government hacking in different national contexts and strategies 
 https://www.youtube.com/watch?v=51pRTOIso4U </sub>
 
  Particular aspects of RealVAD dataset are:
