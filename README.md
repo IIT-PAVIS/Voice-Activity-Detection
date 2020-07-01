@@ -32,5 +32,5 @@ The dataset includes the following:
 * [ ] While the corresponding video can be accessed from: https://www.youtube.com/watch?v=51pRTOIso4U
 
 ## When using this dataset for your research, please cite the related papers in your publication:
-C. Beyan, M. Shahid and V. Murino, "RealVAD: A Real-world Dataset and A Method for
+1) C. Beyan, M. Shahid and V. Murino, "RealVAD: A Real-world Dataset and A Method for
 Voice Activity Detection by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
