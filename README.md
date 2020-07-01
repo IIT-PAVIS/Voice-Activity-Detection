@@ -12,7 +12,7 @@ RealVAD dataset is constructed from a YouTube video composed of a panel discussi
 The audio is available from a single channel. There is one static camera capturing all panelists, the moderator and audiences. 
 The field-of-the-view of the camera while the panelists are shown with the assigned identification numbers are as follow.
 
-![Alt text](myimage.png)
+![Alt text](img.png)
 
  Particular aspects of RealVAD dataset are:
 
