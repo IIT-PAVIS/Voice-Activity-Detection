@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=51pRTOIso4U </sub>
 * [ ] There are also natural changes of illumination and shadow rising on the wall behind the panelists in the back row.
 * [ ] Especially, for the panelists sitting in the front row, there is sometimes background motion occurring when the person(s) behind them moves.
 
-You can reach the annotations from: LINK TO BE ADDED, which includes:
+You can reach the annotations from: http://doi.org/10.5281/zenodo.3928151, which includes:
 
 * [ ] The upper body detection of nine panelists in bounding box form
 * [ ] Associated VAD ground-truth (speaking, not-speaking) for nine panelists 
