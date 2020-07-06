@@ -39,5 +39,4 @@ You can reach the annotations from: http://doi.org/10.5281/zenodo.3928151, which
 Voice Activity Detection by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
 
 
-## Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation
-SOON...
+## Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation (https://github.com/shahid313/Visual-VAD-Unsupervised-Domain-Adaptation)
