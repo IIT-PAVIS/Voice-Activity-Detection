@@ -1,7 +1,7 @@
 # Voice-Activity-Detection
 
 ## Table of contents
-* [DATASET: A Real-world Dataset for Voice Activity Detection](#RealVAD: A Real-world Dataset for Voice Activity Detection)
+* [RealVAD: A Real-world Dataset for Voice Activity Detection](#RealVAD: A Real-world Dataset for Voice Activity Detection)
 * [CODE: Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation](https://github.com/shahid313/Visual-VAD-Unsupervised-Domain-Adaptation)
  
 ## RealVAD: A Real-world Dataset for Voice Activity Detection
@@ -27,13 +27,16 @@ https://www.youtube.com/watch?v=51pRTOIso4U </sub>
 * [ ] There are also natural changes of illumination and shadow rising on the wall behind the panelists in the back row.
 * [ ] Especially, for the panelists sitting in the front row, there is sometimes background motion occurring when the person(s) behind them moves.
 
-You can reach the annotations from: http://doi.org/10.5281/zenodo.3928151, which includes:
+You can reach the annotations from [HERE](http://doi.org/10.5281/zenodo.3928151) that includes:
 
 * [ ] The upper body detection of nine panelists in bounding box form
 * [ ] Associated VAD ground-truth (speaking, not-speaking) for nine panelists 
 * [ ] Acoustic features extracted from the video: MFCC and raw filterbank energies
-* [ ] The corresponding video can be accessed from: https://www.youtube.com/watch?v=51pRTOIso4U
+* [ ] The corresponding video can be accessed from [HERE](https://www.youtube.com/watch?v=51pRTOIso4U)
 
 ## When using this dataset for your research, please cite the related papers in your publication:
-1) C. Beyan, M. Shahid and V. Murino, "RealVAD: A Real-world Dataset and A Method for
-Voice Activity Detection by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
+```
+Cigdem Beyan, Muhammad Shahid and Vittorio Murino,
+"RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis", 
+in IEEE Transactions on Multimedia, IN PRESS.
+```
