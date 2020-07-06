@@ -1,8 +1,8 @@
 # Voice-Activity-Detection
 
 ## Table of contents
-* [RealVAD: A Real-world Dataset for Voice Activity Detection](#dataset)
-* [Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation](#code)
+* Dataset [RealVAD: A Real-world Dataset for Voice Activity Detection](#RealVAD: A Real-world Dataset for Voice Activity Detection)
+* Code: Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation (https://github.com/shahid313/Visual-VAD-Unsupervised-Domain-Adaptation)
  
 ## RealVAD: A Real-world Dataset for Voice Activity Detection
 The task of automatically detecting “Who is Speaking and When” is broadly named as Voice Activity Detection (VAD). 
@@ -37,6 +37,3 @@ You can reach the annotations from: http://doi.org/10.5281/zenodo.3928151, which
 ## When using this dataset for your research, please cite the related papers in your publication:
 1) C. Beyan, M. Shahid and V. Murino, "RealVAD: A Real-world Dataset and A Method for
 Voice Activity Detection by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
-
-
-## Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation (https://github.com/shahid313/Visual-VAD-Unsupervised-Domain-Adaptation)
