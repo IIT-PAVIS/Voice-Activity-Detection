@@ -36,7 +36,16 @@ You can reach the annotations from [HERE](http://doi.org/10.5281/zenodo.3928151)
 
 ## When using this dataset for your research, please cite the related papers in your publication:
 ```
-Cigdem Beyan, Muhammad Shahid and Vittorio Murino,
-"RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis", 
-in IEEE Transactions on Multimedia, IN PRESS.
+C. Beyan, M. Shahid and V. Murino, "RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis," 
+in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3007350.
+```
+```
+@ARTICLE{Beyan2020TMM,
+  author={C. {Beyan} and M. {Shahid} and V. {Murino}},
+  journal={IEEE Transactions on Multimedia}, 
+  title={RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
 ```
